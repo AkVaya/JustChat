@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "157052884542",
+    "firebase_url": "https://justchat-fbcb0.firebaseio.com",
+    "project_id": "justchat-fbcb0",
+    "storage_bucket": "justchat-fbcb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157052884542:android:59472cf5105694ace0636f",
+        "android_client_info": {
+          "package_name": "com.example.android.justchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157052884542-fmn0ak26c80lbn93cg9ke5ho8u28r6g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt33XJUFzYCzbEZMiqgOZi-h411cR0lfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157052884542-fmn0ak26c80lbn93cg9ke5ho8u28r6g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
